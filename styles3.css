@@ -26,6 +26,11 @@ body {
     transition: transform 0.3s, outline 0.3s;
 }
 
+#slide\ descriptions {
+
+    text-align: left;
+}
+
 
 .selected {
     transform: scale(1.5);
